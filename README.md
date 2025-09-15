@@ -1,5 +1,6 @@
 # Projeto de Redes Veiculares
-Feito com o eclipse mosaic
-- Código colocado no cenário usado.
+Simulação da comunicação entre veículos (Tecnologia ADHOC) e de outros nodos ( FOG e RSU, Tecnologia celular).
+Feito com o Eclipse Mosaic 
+- Código colocado na pasta do cenário usado.
 - Relatório
 - Apresentação
